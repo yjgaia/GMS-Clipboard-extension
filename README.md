@@ -1,7 +1,7 @@
 # GMS-Clipboard-extension
 GameMaker: Studio에서 클립보드를 다루는 함수인 `clipboard_set_text`와 `clipboard_get_text`는 윈도우에서만 작동하기 때문에, 이를 모바일 용으로 만든 것입니다. Android와 iOS 환경에서 실행 가능합니다.
 
-***GMS1, GMS2 둘 다 사용 가능합니다. 단, 샘플 프로젝트는 GMS1로 개발되어 있습니다.***
+***GMS1, GMS2 둘 다 사용 가능합니다.***
 
 ## 설치 방법
 Extensions에서 `ClipboardExtension.gmez`를 Import 합니다.
